@@ -1,9 +1,0 @@
-// Basic structure:
-// if (condition) {
-//   ...
-// } else if (otherCondition) {
-//   ...
-// } else {
-//   ...
-// }
-// Practice: implement grading logic and refactor to guard clauses.
