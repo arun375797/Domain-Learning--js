@@ -1,0 +1,13 @@
+export { reverseString } from './exercises/reverseString.js';
+export { isPalindrome } from './exercises/isPalindrome.js';
+export { capitalizeWords } from './exercises/capitalizeWords.js';
+export { countCharacters } from './exercises/countCharacters.js';
+export { maskEmail } from './exercises/maskEmail.js';
+export { capitalizeLastLetter } from './exercises/capitalizeLastLetter.js';
+export { wordFrequency } from './exercises/wordFrequency.js';
+export { swapWords } from './exercises/swapWords.js';
+export { reverseEachWord } from './exercises/reverseEachWord.js';
+export { isAnagram } from './exercises/isAnagram.js';
+export { removeCharacter } from './exercises/removeCharacter.js';
+export { vowelCount } from './exercises/vowelCount.js';
+export { formatTime } from './exercises/formatTime.js';

@@ -1,0 +1,14 @@
+export { getFullName } from './exercises/getFullName.js';
+export { pluckValues } from './exercises/pluckValues.js';
+export { mergePreferences } from './exercises/mergePreferences.js';
+export { countOccurrences } from './exercises/countOccurrences.js';
+export { groupBy } from './exercises/groupBy.js';
+export { isEmptyObject } from './exercises/isEmptyObject.js';
+export { highestValueKey } from './exercises/highestValueKey.js';
+export { lowestValueKey } from './exercises/lowestValueKey.js';
+export { removeOddValuedEntries } from './exercises/removeOddValuedEntries.js';
+export { deepClone } from './exercises/deepClone.js';
+export { freezeNested } from './exercises/freezeNested.js';
+export { sumObjectValues } from './exercises/sumObjectValues.js';
+export { mergeUniqueUsers } from './exercises/mergeUniqueUsers.js';
+export { methodBorrowingExample } from './exercises/methodBorrowingExample.js';

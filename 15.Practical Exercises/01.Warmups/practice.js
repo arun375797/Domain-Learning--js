@@ -1,0 +1,10 @@
+export { add } from './exercises/add.js';
+export { isEven } from './exercises/isEven.js';
+export { swapValues } from './exercises/swapValues.js';
+export { celsiusToFahrenheit } from './exercises/celsiusToFahrenheit.js';
+export { calculateBMI } from './exercises/calculateBMI.js';
+export { difference } from './exercises/difference.js';
+export { arrowSum } from './exercises/arrowSum.js';
+export { reverseArrayInPlace } from './exercises/reverseArrayInPlace.js';
+export { countdown } from './exercises/countdown.js';
+export { printMultiples } from './exercises/printMultiples.js';

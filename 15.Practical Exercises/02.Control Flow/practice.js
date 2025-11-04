@@ -1,0 +1,10 @@
+export { gradeFromScore } from './exercises/gradeFromScore.js';
+export { maxOfThree } from './exercises/maxOfThree.js';
+export { fizzBuzz } from './exercises/fizzBuzz.js';
+export { countVowels } from './exercises/countVowels.js';
+export { daysInMonth } from './exercises/daysInMonth.js';
+export { compareNumbers } from './exercises/compareNumbers.js';
+export { sumUsingLoop } from './exercises/sumUsingLoop.js';
+export { twoSumBruteForce } from './exercises/twoSumBruteForce.js';
+export { printEvenFromTwenty } from './exercises/printEvenFromTwenty.js';
+export { fizzBuzzObject } from './exercises/fizzBuzzObject.js';

@@ -1,0 +1,10 @@
+export { greet } from './exercises/greet.js';
+export { sumAll } from './exercises/sumAll.js';
+export { createMultiplier } from './exercises/createMultiplier.js';
+export { once } from './exercises/once.js';
+export { repeat } from './exercises/repeat.js';
+export { memoize } from './exercises/memoize.js';
+export { curryAdd } from './exercises/curryAdd.js';
+export { defer } from './exercises/defer.js';
+export { compose } from './exercises/compose.js';
+export { withThis } from './exercises/withThis.js';
